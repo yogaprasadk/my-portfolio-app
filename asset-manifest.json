@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23d4a2bc.css",
+    "main.js": "/static/js/main.b438ce2e.js",
+    "static/media/YogaprasadMK_resume.docx": "/static/media/YogaprasadMK_resume.bba27fae6726a55515bb.docx",
+    "index.html": "/index.html",
+    "main.23d4a2bc.css.map": "/static/css/main.23d4a2bc.css.map",
+    "main.b438ce2e.js.map": "/static/js/main.b438ce2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d4a2bc.css",
+    "static/js/main.b438ce2e.js"
+  ]
+}
